@@ -63,6 +63,3 @@ SELECT * FROM salaries
 SELECT * FROM titles
 */
 
-
-
-
